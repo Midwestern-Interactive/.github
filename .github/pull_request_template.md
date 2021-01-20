@@ -5,7 +5,7 @@
 What is the PR being requested
 -->
 
-## Accessiblity
+## Accessibility
 <!-- If your ticket touches the UI you are expected to include these numbers -->
 Pre-PR axe score:
 Post-PR axe score:
