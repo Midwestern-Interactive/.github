@@ -1,17 +1,22 @@
-## Clubhouse or GitHub Issue Number
+# Task: [SC-123](https://)
+<!-- Task: [SC-<story-id>](https://app.shortcut.com/<workspace>/story/<story-id>/<story-name>) -->
 
-## Purpose
-<!--
-What is the PR being requested
--->
+## Description
+<!-- a clear and concise description of what changes this PR introduces and why. -->
 
-## Accessibility
-<!-- If your ticket touches the UI you are expected to include these numbers -->
-Pre-PR axe score:
-Post-PR axe score:
+## Checklist
 
-## Screenshots
-<!-- Please include screenshots of the page/element before and after your PR -->
-Pre-PR:
+- [ ] performed self-review
+- [ ] added unit tests to cover my changes
+- [ ] commented code, particularly in hard-to-understand areas
+- [ ] made corresponding changes to the documentation (if applicable)
+- [ ] ensured all tests are passing and there are no linting errors or warnings
+- [ ] ensured that all acceptance criteria have been met by this PR
+- [ ] moved story to the correct column in the project board
+  <!-- if changes are not ready for review, but have been started then please keep it in the "In Progress" column and open a draft PR with the prefix `[WIP]` -->
+  <!-- if changes are ready for review, please move it to the "Code Review" column and notify the reviewers via slack -->
+  <!-- if the story has been reviewed and approved, please move it to the "Ready for QA" column -->
+  <!-- once the changes have been QA'd and merged, please move it to the "Done" column -->
+- [ ] notified reviewers in Slack
 
-Post-PR:
+## Screenshots/Recordings (if appropriate)
